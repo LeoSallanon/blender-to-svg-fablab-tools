@@ -31,6 +31,8 @@ Mesh / 3D / VR / AI
 → SVG
 → Plotter / Laser / CNC / Embroidery
 
+![GifReadyToUse](https://github.com/user-attachments/assets/ad6b53d3-b484-4b09-9dc2-2692b1e50b8d)
+
 ## Get the add-ons (free / pay what you want)
 
 https://leosallanon.gumroad.com/l/AdvancedEdgesToCurves
