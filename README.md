@@ -4,6 +4,9 @@ A small set of Blender addons designed to generate
 clean, artistic SVGs for pen plotters, laser cutters,
 CNC machines and other fablab tools.
 
+<img width="1505" height="1141" alt="Capture d&#39;écran 2025-12-12 135648" src="https://github.com/user-attachments/assets/c4f5f34a-2f17-4375-af7c-3939d73ee69f" />
+
+
 ## Included addons
 
 ### Advanced Edges to Curves:
